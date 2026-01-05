@@ -5,3 +5,4 @@ Lets do Commit 4
 Lets do Commit from 2 at detached mode
 Lets do Commit from 2 dash
 Lets do Commit 5
+Lets do Commit 6
