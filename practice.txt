@@ -13,3 +13,4 @@ Lets do Commit 7
 Lets do Commit 8
 Lets do Commit 9 AND Nine git commit --amend
 Lets do Commit 10 from remote repo
+Lets do Commit 10 from local 
